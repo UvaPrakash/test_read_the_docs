@@ -13,6 +13,7 @@ Welcome to Test's documentation!
    about-me
    install
    support
+   test
 
 
 Indices and tables
