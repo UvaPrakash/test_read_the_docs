@@ -9,7 +9,8 @@ Welcome to Test's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   about-me
 
 
 Indices and tables
@@ -17,4 +18,4 @@ Indices and tables
 
 * :ref:`genindex`
 * :ref:`modindex`
-* :ref:`search1`
+* :ref:`search`
