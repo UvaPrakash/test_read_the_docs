@@ -11,6 +11,8 @@ Welcome to Test's documentation!
    :caption: Contents:
    
    about-me
+   install
+   support
 
 
 Indices and tables
